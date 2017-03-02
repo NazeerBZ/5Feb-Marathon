@@ -1,0 +1,52 @@
+
+body{
+    margin: 0px;
+    background: radial-gradient(circle, #fff 20%, #ccc);
+}
+
+.mid{
+
+    width: 400px;
+    height: 400p;
+    background-color: rgba(0,0,0,0.9);
+    margin: 0px auto;
+    padding: 10px;
+    margin-top: 10%;
+        
+}
+
+.question{
+    
+    width: 300px;
+    padding: 5px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 15px;
+}
+
+.answer{
+    
+    width: 300px;
+    padding: 5px;    
+    margin-left: 10%;
+    margin-right: 10%;    
+    margin-top: 15px;
+}
+
+.btn{
+
+    padding: 5px;    
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.done{
+
+    padding: 5px 15px;    
+    margin-left: 39%;
+    margin-right: 39%;
+
+}
+
+
+
